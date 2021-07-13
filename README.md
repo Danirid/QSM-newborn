@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Daniel Ridani
 - 👀 I’m interested in neonatal QSM imaging
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email: daniel.ridani@polymtl.ca
 
 <!---
