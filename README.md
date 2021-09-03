@@ -1,8 +1,3 @@
-- 👋 Hi, I’m Daniel Ridani
-- 👀 I’m interested in neonatal QSM imaging
-- 📫 How to reach me email: daniel.ridani@polymtl.ca
+# QSM HIE for newborn baby
 
-<!---
-Danirid/Danirid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This projet consists of developing an algorithm for reconstructing neonatal MRI images using QSM imaging to understand the impact of hypothermia treatment of HIE on the brain of newborns.
